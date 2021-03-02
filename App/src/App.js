@@ -1,7 +1,12 @@
+import Hello from './components/Hello'
+import Goodbay from './components/Goodbay'
+
+
 function App() {
   return (
     <div className="App">
-      <h2>VTS</h2>
+      <Hello />
+      <Goodbay />
     </div>
   );
 }
