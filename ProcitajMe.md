@@ -15,25 +15,25 @@
 - [x] dodati AboutPage komponentu
 - [x] dodati CheckoutPage komponentu
 - [x] dodati ProductPage komponentu
-- [ ] stilizovati HomePage komponentu
-- [ ] stilizovati CartPage komponentu
-- [ ] stilizovati AboutPage komponentu
-- [ ] stilizovati CheckoutPage komponentu
-- [ ] stilizovati ProductPage komponentu
-- [ ] stilizovati ProductPage komponentu
-- [ ] dodati ErrorPage komponentu
-- [ ] fetchovati podatke
-- [ ] dodati Loading komponentu
-- [ ] dodati prikaz jednog proizvoda
-- [ ] dodati prikaz vise proizvoda
-- [ ] dodati proizvod u korpu
-- [ ] dodati rejting za proizvod
-- [ ] dodati filter za proizvode
-- [ ] dodati ProductPage - Grid prikaz
-- [ ] dodati ProductPage - List prikaz
-- [ ] dodati Sortiranje proizvoda stilizovanje
-- [ ] dodati Sortiranje proizvoda kontroler
-- [ ] dodati Sortiranje kompletna funkcionalnost
+- [x] stilizovati HomePage komponentu
+- [x] stilizovati CartPage komponentu
+- [x] stilizovati AboutPage komponentu
+- [x] stilizovati CheckoutPage komponentu
+- [x] stilizovati ProductPage komponentu
+- [x] stilizovati ProductPage komponentu
+- [x] dodati ErrorPage komponentu
+- [x] fetchovati podatke
+- [x] dodati Loading komponentu
+- [x] dodati prikaz jednog proizvoda
+- [x] dodati prikaz vise proizvoda
+- [x] dodati proizvod u korpu
+- [x] dodati rejting za proizvod
+- [x] dodati filter za proizvode
+- [x] dodati ProductPage - Grid prikaz
+- [x] dodati ProductPage - List prikaz
+- [x] dodati Sortiranje proizvoda stilizovanje
+- [x] dodati Sortiranje proizvoda kontroler
+- [x] dodati Sortiranje kompletna funkcionalnost
 - [ ] dodati Filter za text unos
 - [ ] dodati Filter za izbor po kategoriji
 - [ ] dodati Filter za izbor po markama

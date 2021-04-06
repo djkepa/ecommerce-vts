@@ -47,10 +47,12 @@ const Wrapper = styled.div`
 
   .cart-btn {
     color: var(--clr-grey-1);
-    font-size: 1.5rem;
+    font-size: 1rem;
     letter-spacing: var(--spacing);
     color: var(--clr-grey-1);
     display: flex;
+    text-transform: uppercase;
+    font-weight: 600;
 
     align-items: center;
   }
@@ -79,14 +81,18 @@ const Wrapper = styled.div`
     padding: 12px;
   }
   .auth-btn {
+    font-family: 'POPPINS';
     display: flex;
     align-items: center;
     background: transparent;
     border-color: transparent;
-    font-size: 1.5rem;
+    font-size: 1rem;
     cursor: pointer;
     color: var(--clr-grey-1);
     letter-spacing: var(--spacing);
+    text-transform: uppercase;
+    font-weight: 600;
+
     svg {
       margin-left: 5px;
     }
