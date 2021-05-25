@@ -2,3 +2,4 @@
   base    = "App/"
   publish = "build"
   command = "npm run build"
+  functions = "./functions"
