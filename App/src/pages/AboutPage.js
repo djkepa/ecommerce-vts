@@ -14,16 +14,24 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat
-            accusantium sapiente tempora sed dolore esse deserunt eaque
-            excepturi, delectus error accusamus vel eligendi, omnis beatae.
-            Quisquam, dicta. Eos quod quisquam esse recusandae vitae neque
-            dolore, obcaecati incidunt sequi blanditiis est exercitationem
-            molestiae delectus saepe odio eligendi modi porro eaque in libero
-            minus unde sapiente consectetur architecto. Ullam rerum, nemo iste
-            ex, eaque perspiciatis nisi, eum totam velit saepe sed quos
-            similique amet. Ex, voluptate accusamus nesciunt totam vitae esse
-            iste.
+            This project used for research purposes was never even planned to be in production or publicly used but for the purposes of a student project.
+             <br />
+            <strong>
+              The following worked on this project:
+            </strong>
+            <br />
+            <i>
+              Branislav Grozdanovic (Tech Lead)<br />
+            Aleksandar Stojicic (Frontend Developer)<br />
+            Dusan Dukic (Frontend Developer)<br />
+            Vukasin Milanovic (Backend Developer)<br />
+            </i>
+            <br />
+            For the purpose of testing and presentation, this site is live only for that reason. Please do not copy our work or use it for your own purposes.
+             <br />
+            <strong>
+              Master Information Technology in Novi Sad 2021.
+            </strong>
           </p>
         </article>
       </Wrapper>

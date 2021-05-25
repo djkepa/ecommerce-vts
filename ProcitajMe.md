@@ -34,25 +34,25 @@
 - [x] dodati Sortiranje proizvoda stilizovanje
 - [x] dodati Sortiranje proizvoda kontroler
 - [x] dodati Sortiranje kompletna funkcionalnost
-- [ ] dodati Filter za text unos
-- [ ] dodati Filter za izbor po kategoriji
-- [ ] dodati Filter za izbor po markama
-- [ ] dodati Filter za izbor po boji
-- [ ] dodati Filter za izbor po ceni
-- [ ] dodati Ciscenje filtera
-- [ ] dodati AddToCart Reducer za novi proizvod
-- [ ] dodati AddToCart Reducer za postojeci proizvod
-- [ ] dodati Cart Content
-- [ ] dodati u localStorage cuvanje privemenih zelja
-- [ ] dodati Auth0 funkcionalnost za ulogovanje
-- [ ] dodati Auth0 provajder
-- [ ] dodati useContext kuku
-- [ ] dodati Auth0 login i logout dugme
-- [ ] dodati Auth0 privatnu rutu
-- [ ] testirati Auth0 sa ostatkom aplikacije
-- [ ] dodati i povezati Stripe Api sa aplikacijom
-- [ ] dodati Stripe importove
-- [ ] dodati Stripe varijable i kljuceve
-- [ ] dodati aplikaciju na Netlify
+- [x] dodati Filter za text unos
+- [x] dodati Filter za izbor po kategoriji
+- [x] dodati Filter za izbor po markama
+- [x] dodati Filter za izbor po boji
+- [x] dodati Filter za izbor po ceni
+- [x] dodati Ciscenje filtera
+- [x] dodati AddToCart Reducer za novi proizvod
+- [x] dodati AddToCart Reducer za postojeci proizvod
+- [x] dodati Cart Content
+- [x] dodati u localStorage cuvanje privemenih zelja
+- [x] dodati Auth0 funkcionalnost za ulogovanje
+- [x] dodati Auth0 provajder
+- [x] dodati useContext kuku
+- [x] dodati Auth0 login i logout dugme
+- [x] dodati Auth0 privatnu rutu
+- [x] testirati Auth0 sa ostatkom aplikacije
+- [x] dodati i povezati Stripe Api sa aplikacijom
+- [x] dodati Stripe importove
+- [x] dodati Stripe varijable i kljuceve
+- [x] dodati aplikaciju na Netlify
 
 :grinning:
