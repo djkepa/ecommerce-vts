@@ -1,4 +1,7 @@
 ###### Softversko Inzenjerstvo
+
+Projekat je uzivo na: 
+https://bavd-ecommerce.netlify.app/
 ###### Na ovom projektu rade sledeći:
 1. Aleksandar Stojičić
 2. Vukašin Milanović
